@@ -1,0 +1,5 @@
+
+octave/work.m
+octave/DSP/FFT/*.m
+octave/DSP/Average_Devel/*.m
+*.ipynb_checkpoints*
